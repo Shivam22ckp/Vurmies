@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "795244833268",
+    "project_id": "vrumies-ayushgupta249",
+    "storage_bucket": "vrumies-ayushgupta249.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795244833268:android:8a960d236af5fc6268f1a1",
+        "android_client_info": {
+          "package_name": "brilliant.vurmies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795244833268-3mh8689snlch6bhg9q1eg8vbj6ebb8o0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "brilliant.vurmies",
+            "certificate_hash": "d5810ac494fb57636ac3fbfd1d43cd70e7bbca86"
+          }
+        },
+        {
+          "client_id": "795244833268-2cecj6b372bf0f5f3vtcavd0pc0gfgc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkGYyoJARyeXX21PBLSi8jEYg1rqXcmZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795244833268-2cecj6b372bf0f5f3vtcavd0pc0gfgc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
